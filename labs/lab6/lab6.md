@@ -28,4 +28,6 @@ class: CIS106
 
 ![q5](q5.1.png)<br>
 
+![q5](q5.2.png)<br>
+
 
